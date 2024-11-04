@@ -42,7 +42,7 @@
   <entry>
     <title>2024-11-03 今日份思考</title>
     <url>/hexo/2024/11/03/20241103/</url>
-    <content><![CDATA[<h2 id="2024-11-03-今日份思考"><a href="#2024-11-03-今日份思考" class="headerlink" title="2024-11-03 今日份思考"></a>2024-11-03 今日份思考</h2><h3 id="提出计划"><a href="#提出计划" class="headerlink" title="提出计划"></a>提出计划</h3><ul>
+    <content><![CDATA[<h2 id="2024-11-03-今日份总结"><a href="#2024-11-03-今日份总结" class="headerlink" title="2024-11-03 今日份总结"></a>2024-11-03 今日份总结</h2><h3 id="提出计划"><a href="#提出计划" class="headerlink" title="提出计划"></a>提出计划</h3><ul>
 <li>每天抽时间完成一篇复盘博客（总结今日的收获，做出明天的规划）</li>
 <li>先坚持 21 天，养成习惯，看看收获如何</li>
 </ul>
@@ -87,7 +87,7 @@
   <entry>
     <title>2024-11-04 今日份思考</title>
     <url>/hexo/2024/11/04/20241104/</url>
-    <content><![CDATA[<h3 id="2024-11-04-今日份思考"><a href="#2024-11-04-今日份思考" class="headerlink" title="2024-11-04 今日份思考"></a>2024-11-04 今日份思考</h3><ul>
+    <content><![CDATA[<h2 id="2024-11-04-今日份总结"><a href="#2024-11-04-今日份总结" class="headerlink" title="2024-11-04 今日份总结"></a>2024-11-04 今日份总结</h2><h3 id="今日的事"><a href="#今日的事" class="headerlink" title="今日的事"></a>今日的事</h3><ul>
 <li>第二天打卡博客~[2&#x2F;21]</li>
 <li>英语翻译奖[国二]✌ 保研分进度[10&#x2F;100]~</li>
 <li>软测 Web 过预赛，要准备省赛了！时间是：11 月 16 日 13:00-16:00<ul>
@@ -96,6 +96,7 @@
 </ul>
 </li>
 <li>数据结构复习，保存了录音，数学竞赛完就要开始 ✊</li>
+<li>曦曦子拿奖学金了，接下来都要她请客啦！😏</li>
 </ul>
 <h3 id="值得记录的知识点"><a href="#值得记录的知识点" class="headerlink" title="值得记录的知识点"></a>值得记录的知识点</h3><ul>
 <li>前端页面图片过大，导致加载过慢，怎么解决？<ul>
@@ -108,6 +109,7 @@
 <li>使用图片懒加载插件，如 vue-lazyload、react-lazyload 等</li>
 </ul>
 </li>
+<li>图片路径问题，采用绝对路径解决。</li>
 </ul>
 ]]></content>
       <categories>
