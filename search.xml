@@ -244,4 +244,90 @@
         <tag>思考</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2024-11-11 今日份思考</title>
+    <url>/hexo/2024/11/11/20241111/</url>
+    <content><![CDATA[<h2 id="2024-11-11-今日份总结"><a href="#2024-11-11-今日份总结" class="headerlink" title="2024-11-11 今日份总结"></a>2024-11-11 今日份总结</h2><h3 id="今日的事"><a href="#今日的事" class="headerlink" title="今日的事"></a>今日的事</h3><ul>
+<li>修改大创项目内容</li>
+<li>提交奖学金申请</li>
+<li>开始复习数据结构</li>
+</ul>
+<h3 id="tips"><a href="#tips" class="headerlink" title="tips"></a>tips</h3><ul>
+<li>很多事情做就好了，不要太在意结果，要静待花开。</li>
+</ul>
+<h3 id="前端每日一个知识点"><a href="#前端每日一个知识点" class="headerlink" title="前端每日一个知识点"></a>前端每日一个知识点</h3><ul>
+<li>数组方法的复习</li>
+<li>增、删元素的方法</li>
+<li><code>push</code>：在数组的末尾添加一个或多个元素，并返回新的数组长度。</li>
+<li><code>pop</code>：删除数组的最后一个元素，并返回该元素。</li>
+<li><code>unshift</code>：在数组的开头添加一个或多个元素，并返回新的数组长度。</li>
+<li><code>shift</code>：删除数组的第一个元素，并返回该元素。</li>
+<li><code>array.splice(start, deleteCount, item1, item2, ...)</code>：通过删除现有元素和&#x2F;或添加新元素来更改一个数组的内容。 、<ul>
+<li>返回一个数组，包含所有被删除的元素。</li>
+<li>start：指定开始操作的位置（索引）。如果是负数，表示从数组的末尾开始计数。</li>
+<li>deleteCount：指定要删除的元素个数。如果不传这个参数，默认会删除从 start 位置到数组结尾的所有元素。</li>
+<li>item1, item2, …：要添加到数组中的元素。这些元素会从 start 位置开始添加到数组中。</li>
+</ul>
+</li>
+<li>数组查找和筛选的方法</li>
+<li><code>indexOf(item)</code>：返回数组中第一个匹配元素的索引，如果未找到匹配元素，则返回 -1。</li>
+<li><code>lastIndexOf(item)</code>：返回数组中最后一个匹配元素的索引，如果未找到匹配元素，则返回 -1。</li>
+<li><code>includes(item)</code>：判断数组是否包含某个元素，返回布尔值。</li>
+<li><code>find(callback)</code>：返回数组中第一个满足提供的测试函数的元素的值。如果没有找到任何元素，则返回 undefined。</li>
+<li><code>findIndex(callback)</code>：返回数组中第一个满足提供的测试函数的元素的索引。如果没有找到任何元素，则返回 -1。</li>
+<li><code>filter(callback)</code>：返回一个新数组，包含所有通过提供的测试函数的元素。</li>
+<li>数组迭代的方法</li>
+<li><code>forEach(callback)</code>：遍历数组中的每个元素，没有返回值。</li>
+<li><code>map(callback)</code>：遍历数组中的每个元素，将每个元素加工后组成一个新数组返回。</li>
+<li>数组排序的方法</li>
+<li><code>sort(callback)</code>：对数组中的元素进行排序，并返回排序后的数组。默认情况下，sort() 方法会将数组元素转换为字符串，并按照字符串的 Unicode 码点进行排序。</li>
+<li><code>reverse()</code>：反转数组中元素的顺序，并返回反转后的数组。</li>
+<li>数组合并和转换的方法</li>
+<li><code>concat(array1, array2, ...)</code>：合并两个或多个数组，并返回一个新的数组。</li>
+<li><code>join(separator)</code>：将数组中的所有元素连接成一个字符串，并返回该字符串。separator 是可选参数，用于指定连接元素的分隔符，默认为逗号 (,)。</li>
+<li>数组测试的方法</li>
+<li><code>every(callback)</code>：测试数组中的所有元素是否都通过了提供的测试函数。如果所有元素都通过测试，则返回 true；否则返回 false。</li>
+<li><code>some(callback)</code>：测试数组中是否至少有一个元素通过了提供的测试函数。如果至少有一个元素通过测试，则返回 true；否则返回 false。</li>
+<li>数组计算的方法</li>
+<li><code>reduce(callback, initialValue)</code>：对数组中的每个元素执行一个由您提供的 reducer 函数(升序执行)，将其结果汇总为单个返回值。callback 函数接收四个参数：accumulator（累加器）、currentValue（当前值）、currentIndex（当前索引）、array（数组）。</li>
+<li><code>reduceRight(callback, initialValue)</code>：与 reduce() 方法类似，但它是从数组的末尾开始遍历，而不是从开头开始。</li>
+<li>其他有用的数组方法</li>
+<li><code>flat(depth)</code>：按照一个可指定的深度递归遍历数组，并将所有元素与遍历到的子数组中的元素合并为一个新数组返回。depth 是可选参数，用于指定递归遍历的深度，默认为 1。</li>
+<li><code>flatMap(callback)</code>：首先使用映射函数映射每个元素，然后将结果压缩成一个新数组返回。它与 map() 方法类似，但会先使用 flat() 方法将结果数组扁平化。</li>
+<li><code>slice(start, end)</code>：返回一个新数组，包含从 start 到 end（不包括 end）之间的元素。start 和 end 是可选参数，默认为 0 和数组长度。</li>
+<li><code>fill(value, start, end)</code>：用一个固定值填充数组中从 start 到 end（不包括 end）之间的所有元素。start 和 end 是可选参数，默认为 0 和数组长度。</li>
+<li><code>copyWithin(target, start, end)</code>：浅复制数组的一部分到同一数组中的另一个位置，并返回该数组。target 是必选参数，表示要复制到的目标位置。start 和 end 是可选参数，默认为 0 和数组长度。</li>
+<li>会改变原数组的方法（有副作用）</li>
+<li>push()：在数组末尾添加元素，改变原数组。<br>pop()：删除数组末尾的元素，改变原数组。<br>unshift()：在数组开头添加元素，改变原数组。<br>shift()：删除数组开头的元素，改变原数组。<br>splice()：可以删除、替换或插入元素，改变原数组。<br>sort()：对数组排序，会改变原数组的顺序。<br>reverse()：将数组反转，改变原数组。<br>fill()：用指定值填充数组的部分或全部，改变原数组。<br>copyWithin()：将数组中的某些部分复制到同一数组的不同位置，改变原数组。</li>
+<li>伪元素<ul>
+<li>伪元素的定义与作用<ul>
+<li>允许我们通过 CSS 为内容添加特定的样式和效果，而无需在 HTML 中实际添加元素。</li>
+<li>伪元素的定义以双冒号 (::) 开始，如 ::before 和 ::after。它们实际上是为元素创建的虚拟元素，使你可以为其添加内容或样式。这两个伪元素广泛用于为元素添加装饰性图案、标签或图标，而不需要额外的 HTML 代码。</li>
+</ul>
+</li>
+<li>伪类与伪元素的区别<ul>
+<li>伪类用于选择处于特定状态的元素，如 :hover、:active、:focus 等。它们通常用于为元素添加动态效果或样式。</li>
+<li>:first-child 也是伪类</li>
+</ul>
+</li>
+<li>一些应用<ul>
+<li>::first-line 和 ::first-letter：::first-line：为文本元素的第一行添加样式，适合段落样式设计。::first-letter：为文本元素的第一个字母添加样式，适合做大写首字母样式（如杂志首字母放大样式）。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>可选链操作符（?.）<ul>
+<li><code>firstList?.items?.sort((a, b) =&gt; a.isAPI - b.isAPI);</code></li>
+<li>可选链操作符(?.)允许读取位于连接对象链深处的属性的值，而不必明确验证链中的每个引用是否有效。在读取位于连接对象链深处的属性的值时，可选链操作符(?.)提供了一种安全访问的方式，防止在引用为空(null 或 undefined)时抛出错误。</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>思考</tag>
+      </tags>
+  </entry>
 </search>
