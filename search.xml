@@ -341,13 +341,29 @@
 <li>实验课还是要认真一些，把该搞懂的东西搞懂。要把平时每次的东西都做好。</li>
 </ul>
 <h3 id="知识点"><a href="#知识点" class="headerlink" title="知识点"></a>知识点</h3><ul>
-<li>删除 node_modules 文件夹</li>
-<li>清空 npm 缓存<ul>
+<li><p>删除 node_modules 文件夹</p>
+</li>
+<li><p>清空 npm 缓存</p>
+<ul>
 <li>npm cache clean –force</li>
 </ul>
 </li>
-<li>Rows 行 Columns 列</li>
-<li>Horizontal 水平的 Vertical 垂直的</li>
+<li><p>Rows 行 Columns 列</p>
+</li>
+<li><p>Horizontal 水平的 Vertical 垂直的</p>
+</li>
+<li><p>对象的属性操作</p>
+</li>
+<li><p>对象的合并、赋值</p>
+</li>
+<li><p>对象的遍历</p>
+</li>
+<li><p>对象的冻结与修改</p>
+</li>
+<li><p>对象的比较与检查</p>
+</li>
+<li><p>对象的解构赋值</p>
+</li>
 </ul>
 ]]></content>
       <categories>
@@ -386,6 +402,22 @@
         <tag>数据结构</tag>
         <tag>考试</tag>
         <tag>复习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2024-11-13 今日份思考</title>
+    <url>/hexo/2024/11/13/20241113/</url>
+    <content><![CDATA[<h2 id="2024-11-13-今日份总结"><a href="#2024-11-13-今日份总结" class="headerlink" title="2024-11-13 今日份总结"></a>2024-11-13 今日份总结</h2><h3 id="今日的事"><a href="#今日的事" class="headerlink" title="今日的事"></a>今日的事</h3><ul>
+<li>满课，但是感觉最近的学习状态好一些了。</li>
+<li>外包，要提前预留时间出来，感觉大概率可以成这次。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>日记</category>
+        <category>外包</category>
+      </categories>
+      <tags>
+        <tag>思考</tag>
       </tags>
   </entry>
 </search>
