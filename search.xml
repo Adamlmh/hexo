@@ -392,6 +392,10 @@
 <li>出队时 考虑 if(Q.front&#x3D;&#x3D;Q.rear) Q.front&#x3D;Q.rear&#x3D;NULL; &#x2F;&#x2F;e 删除唯一元素</li>
 </ul>
 </li>
+<li>哈希表<ul>
+<li>插入时要注意时插入表头</li>
+</ul>
+</li>
 </ul>
 ]]></content>
       <categories>
@@ -430,6 +434,86 @@
       <categories>
         <category>日记</category>
         <category>李子柒</category>
+      </categories>
+      <tags>
+        <tag>思考</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2024-11-14 今日份思考</title>
+    <url>/hexo/2024/11/14/20241115/</url>
+    <content><![CDATA[<h2 id="2024-11-14-今日份总结"><a href="#2024-11-14-今日份总结" class="headerlink" title="2024-11-14 今日份总结"></a>2024-11-14 今日份总结</h2><h3 id="今日的事"><a href="#今日的事" class="headerlink" title="今日的事"></a>今日的事</h3><ul>
+<li>最近李子柒复出，一口气更新了三个视频，她是以年作为单位更新视频的。复出后依旧是顶流，为什么多年一直被模仿从未被超越？也许是很难有人能够做到像她一样沉淀，用心去拍摄，用心去制作，用心去创作，用心去生活吧。但也是之前她的成就让她更有底气去沉淀，有精力能力财力去沉淀。这个时代需要更多这样的李子柒精神。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>日记</category>
+        <category>李子柒</category>
+      </categories>
+      <tags>
+        <tag>思考</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>软件测试复习</title>
+    <url>/hexo/2024/11/15/ruanjianceshi/</url>
+    <content><![CDATA[<h3 id="选取元素顺序要求"><a href="#选取元素顺序要求" class="headerlink" title="选取元素顺序要求"></a>选取元素顺序要求</h3><p>为了提高代码的可读性和可维护性，应优先使用带有语意的定位器，请按照以下优先级使用定位器：ID &gt; NAME &gt;CLASSNAME &gt; LINKTEXT &gt; CSS Selector&gt; XPATH；当出现超链接的时候，需将 LINKTEXT 优先级作为第一位。</p>
+]]></content>
+      <categories>
+        <category>复习</category>
+        <category>考试</category>
+      </categories>
+      <tags>
+        <tag>考试</tag>
+        <tag>复习</tag>
+        <tag>软件测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2024-11-19 今日份思考</title>
+    <url>/hexo/2024/11/19/20241119/</url>
+    <content><![CDATA[<h2 id="2024-11-19-今日份总结"><a href="#2024-11-19-今日份总结" class="headerlink" title="2024-11-19 今日份总结"></a>2024-11-19 今日份总结</h2><h3 id="最近的事"><a href="#最近的事" class="headerlink" title="最近的事"></a>最近的事</h3><ul>
+<li><p>有一段时间没有更新了，没有坚持下来，一是确实感觉没什么东西去写，二是自己有点累，想休息一下。</p>
+</li>
+<li><p>这个学期的比赛也结束的差不多了，也是算花了一个月的时间去搞，搞了 50 保研分。完成了 1&#x2F;2 的任务了。</p>
+<ul>
+<li>英语国二-10 分</li>
+<li>数学省二-10 分</li>
+<li>Web 软测省一-15 分</li>
+<li>鸿蒙软测省一-15 分</li>
+</ul>
+</li>
+<li><p>但是感觉好像其他有些地方却是落下了。比如数字逻辑的实验课不够认真，数据结构的期末考试的一道大题。感觉现在复习没有之前耐心了。明明知道它会考但是还是抱着侥幸心里。而不是踏踏实实的再去细看一边。感觉现在的心态有点浮躁了。太急于求成了。</p>
+</li>
+<li><p>前端内容也是很多地方，没有踏踏实实的去做好，去学习，去坚持。</p>
+</li>
+<li><p>有点忽略身边的人的了。</p>
+</li>
+<li><p>运动缺少了，一是晚上有实验课，二是体测完不想动了。但这样不好，长久的话还是要运动，好像一段时间不运动，腰都开始酸痛了。</p>
+</li>
+<li><p>理财方面，学到一点：就是合理的配置自己的资产，但你会一直去在乎一个东西，一直去看的时候，就证明你配置的比例不对，不适合你。这个也是一直的问题，现在慢慢也解决了，变得更合理了。也会花的时间少一些了。</p>
+</li>
+<li><p>为了纠正前面的问题，做出以下对应计划。</p>
+</li>
+</ul>
+<h3 id="对应的计划"><a href="#对应的计划" class="headerlink" title="对应的计划"></a>对应的计划</h3><ul>
+<li>英语六级考试，从今晚开始听听力准备一下，争取高分一点过。</li>
+<li>上课认认真真学习，把后面的科目都把握好，踏踏实实的复习学习！</li>
+<li>课设实验做的好一些，弥补一下期末考试卷面的问题。</li>
+<li>前端内容找一个 UP 主每天看一个视频学习一下小知识点。然后接下来要学的东西有 Echarts，antv 的使用以及一些组件库的使用。每天做一个小 Demo。</li>
+<li>回家陪一下家人聊聊天，这周要回去给姐过生日，一年真快啊，去年这个时候，哈哈哈。那张照片拍的一直用做聊天背景。</li>
+<li>周末找时间陪曦曦子去玩一下，吃个饭，休息一下。</li>
+<li>每天下午跑个步，然后回去洗澡吃饭。</li>
+</ul>
+<h3 id="这段时间要做的事情"><a href="#这段时间要做的事情" class="headerlink" title="这段时间要做的事情"></a>这段时间要做的事情</h3><ul>
+<li>这周看一下能不能把外包的需求对接下来。</li>
+<li>今晚补数据逻辑的课。</li>
+<li>数据结构的课设，这几天开始做，用一周左右的时间完成。</li>
+<li>前端的内容，每天看一个视频，然后做一个小 Demo。＋看一下微信小程序视频，开始学习。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>日记</category>
       </categories>
       <tags>
         <tag>思考</tag>
