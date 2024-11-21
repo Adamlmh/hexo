@@ -440,21 +440,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2024-11-15 今日份思考</title>
-    <url>/hexo/2024/11/15/20241115/</url>
-    <content><![CDATA[<h2 id="2024-11-15-今日份总结"><a href="#2024-11-15-今日份总结" class="headerlink" title="2024-11-15 今日份总结"></a>2024-11-15 今日份总结</h2><h3 id="今日的事"><a href="#今日的事" class="headerlink" title="今日的事"></a>今日的事</h3><ul>
-<li>最近李子柒复出，一口气更新了三个视频，她是以年作为单位更新视频的。复出后依旧是顶流，为什么多年一直被模仿从未被超越？也许是很难有人能够做到像她一样沉淀，用心去拍摄，用心去制作，用心去创作，用心去生活吧。但也是之前她的成就让她更有底气去沉淀，有精力能力财力去沉淀。这个时代需要更多这样的李子柒精神。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>日记</category>
-        <category>李子柒</category>
-      </categories>
-      <tags>
-        <tag>思考</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>软件测试复习</title>
     <url>/hexo/2024/11/15/ruanjianceshi/</url>
     <content><![CDATA[<h3 id="选取元素顺序要求"><a href="#选取元素顺序要求" class="headerlink" title="选取元素顺序要求"></a>选取元素顺序要求</h3><p>为了提高代码的可读性和可维护性，应优先使用带有语意的定位器，请按照以下优先级使用定位器：ID &gt; NAME &gt;CLASSNAME &gt; LINKTEXT &gt; CSS Selector&gt; XPATH；当出现超链接的时候，需将 LINKTEXT 优先级作为第一位。</p>
@@ -620,6 +605,28 @@
 <li>reset –hard origin&#x2F;master 会将本地分支的内容重置为远程分支的内容，并丢弃所有未提交的修改。</li>
 </ul>
 </li>
+</ul>
+]]></content>
+      <categories>
+        <category>日记</category>
+        <category>李子柒</category>
+      </categories>
+      <tags>
+        <tag>思考</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2024-11-21 今日份思考</title>
+    <url>/hexo/2024/11/21/20241121/</url>
+    <content><![CDATA[<h2 id="2024-11-21-今日份总结"><a href="#2024-11-21-今日份总结" class="headerlink" title="2024-11-21 今日份总结"></a>2024-11-21 今日份总结</h2><h3 id="今日的事"><a href="#今日的事" class="headerlink" title="今日的事"></a>今日的事</h3><ul>
+<li>上午搞定外包对接，报价 1500，先做第一期，后续再看情况加，这个后续还有很多可以做的。<ul>
+<li>要一边开始设计怎么做，一边开始布置，开始搞。</li>
+</ul>
+</li>
+<li>下午上完概率论，然后把作业写一下，然后开始搞外包，把第一期的需求文档写一下，然后开始做。尽量把学到的东西用上。</li>
+</ul>
+<h3 id="创建一个-React-项目的完整命令"><a href="#创建一个-React-项目的完整命令" class="headerlink" title="创建一个 React 项目的完整命令"></a>创建一个 React 项目的完整命令</h3><ul>
+<li>npx create-react&#x3D;app name</li>
 </ul>
 ]]></content>
       <categories>
